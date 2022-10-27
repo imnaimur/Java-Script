@@ -29,3 +29,5 @@ arr.map((value,index) => {
 // import and export
 import { sayMyName } from "./function1.js"
 sayMyName("Naimur")
+import { setMyId } from "./function1.js"
+setMyId("22101075")
